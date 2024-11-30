@@ -4,7 +4,7 @@ I'm a Backend Developer skilled in building robust RESTful APIs using Django and
 
 ## 💁🏻 Portfolio : https://gauravnagose.vercel.app/
 
-## 🔧 Technologies & Skills
+## 🔧 Technical Skills
 - **Backend Development:** Python, Django, Django Rest Framework
 - **Frontend Development:** HTML, CSS, JavaScript
 - **Database Management:** PostgreSQL, MySQL, SQLite
