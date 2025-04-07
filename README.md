@@ -5,11 +5,10 @@ I'm a **Backend Developer** skilled in building dynamic **Web Application** and 
 ## 💁🏻 Portfolio : https://gauravnagose.vercel.app/
 
 ## 🔧 Technical Skills
-- **Backend Development:** Python, Django, Django Rest Framework
-- **Frontend Development:** HTML, CSS, JavaScript
-- **Database Management:** PostgreSQL, MySQL, SQLite
-- **Version Control:** Git, GitHub
-- **Others:** Docker, RESTful APIs, JSON
+- **Backend Development:** Python, Django (Django REST Framework, WebSockets, Django Channels, Celery)
+- **Frontend Development:** HTML, CSS, Bootstrap, JavaScript, and AJAX
+- **Database Management:** SQL, MySQL, PostgreSQL, Redis (with Channels-Redis)
+- **Tools and Technologies:** Git, GitHub, Docker, Linux, ElasticSearch, Postman
 
 ## 🌟 What I Do
 - **Design and Develop APIs:** I specialize in creating RESTful APIs that are efficient, secure, and scalable, using Django and Django Rest Framework.
