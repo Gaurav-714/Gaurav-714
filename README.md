@@ -1,6 +1,9 @@
 # Hi there, I'm Gaurav Nagose 👋
 
-I'm a **Backend Developer** skilled in building dynamic **Web Application** and robust **RESTful APIs** using **Django** and **Django REST Framework**. With a strong foundation in backend technologies, I excel at creating efficient and scalable solutions that meet the demands of modern web development. 
+I'm a **Backend Developer** skilled in building **Web Applications** and **REST APIs** using **Django and Django REST
+framework**. Capable of collaborating with frontend teams, managing **SQL Databases**, handling **Websockets** & integrating **real-time fea-
+tures**, and optimizing backend performance. Dedicated to delivering reliable and scalable backend systems that
+support innovative projects and solve complex challenges, while adapting to the evolving business needs.
 
 ## 💁🏻 Portfolio : https://gauravnagose.vercel.app/
 
@@ -18,7 +21,7 @@ I'm a **Backend Developer** skilled in building dynamic **Web Application** and 
 
 ## 🌱 Currently Learning
 - Advanced Django techniques
-- Microservices architecture
+- Security optimization features
 
 ## 📫 Get in Touch
 - **LinkedIn:** [Gaurav Nagose](https://www.linkedin.com/in/gaurav-nagose-b80676278/)
